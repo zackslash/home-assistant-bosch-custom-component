@@ -6,7 +6,7 @@
   "dependencies": ["network", "persistent_notification"],
   "after_dependencies": ["http", "recorder"],
   "codeowners": ["@pszafer"],
-  "requirements": ["bosch-thermostat-client==v0.28.0"],
+  "requirements": ["bosch-thermostat-client==v0.28.1"],
   "version": "0.28.0",
   "zeroconf": ["_buderus._tcp.local."],
   "config_flow": true,
